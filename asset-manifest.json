@@ -1,16 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.1c906f1c.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.47efc0c0.css",
+    "main.js": "/static/js/main.e3e961b9.js",
+    "static/media/logo11.png": "/static/media/logo11.65e9e25fbbafa6265a89.png",
+    "static/media/intern.png": "/static/media/intern.6e23f9e46a3b8d544546.png",
+    "static/media/flipkart.png": "/static/media/flipkart.07304b5fc29ebb0b163d.png",
+    "static/media/Anthro.png": "/static/media/Anthro.3da5dea6e3b9ecee7220.png",
+    "static/media/milaap.png": "/static/media/milaap.3a91af48615cb4cb08d6.png",
+    "static/media/profile.png": "/static/media/profile.89e213081fb4f8e19d94.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.c8bb8224feac23daa7b7.png",
+    "static/media/monster.png": "/static/media/monster.4cad7510bf34e41850c1.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/redux.png": "/static/media/redux.b3b939c66aecf7d53967.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.1c906f1c.js.map": "/static/js/main.1c906f1c.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.47efc0c0.css.map": "/static/css/main.47efc0c0.css.map",
+    "main.e3e961b9.js.map": "/static/js/main.e3e961b9.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.1c906f1c.js"
+    "static/css/main.47efc0c0.css",
+    "static/js/main.e3e961b9.js"
   ]
 }
