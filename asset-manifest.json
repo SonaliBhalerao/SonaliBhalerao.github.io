@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.24d1810a.css",
-    "main.js": "/static/js/main.779e1c17.js",
+    "main.js": "/static/js/main.171201fe.js",
     "static/media/logo11.png": "/static/media/logo11.65e9e25fbbafa6265a89.png",
     "static/media/intern.png": "/static/media/intern.6e23f9e46a3b8d544546.png",
     "static/media/flipkart.png": "/static/media/flipkart.07304b5fc29ebb0b163d.png",
@@ -20,10 +20,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.24d1810a.css.map": "/static/css/main.24d1810a.css.map",
-    "main.779e1c17.js.map": "/static/js/main.779e1c17.js.map"
+    "main.171201fe.js.map": "/static/js/main.171201fe.js.map"
   },
   "entrypoints": [
     "static/css/main.24d1810a.css",
-    "static/js/main.779e1c17.js"
+    "static/js/main.171201fe.js"
   ]
 }
